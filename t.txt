@@ -1,9 +1,0 @@
-dir
-f1.log
-f2.log
-f3.log
-index.html
-myfile.txt
-rr.txt
-static
-t.txt
