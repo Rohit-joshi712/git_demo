@@ -1,3 +1,2 @@
 *.log
-t.txt
 /dir
